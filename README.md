@@ -4,7 +4,7 @@ Team Blue (Jim, Joe, Bell, Chris): [Economic Forces](teamblue.md)
 
 Team Sth (Tedd, Lea, Pete): [Polling and Prediction](teamsth.md)
 
-Team Whatever (Seth, Bean, Apple): [Polling and Prediction](teamwhatever.md)
+Team Whatever (Seth, Bean, Apple): [Polling and Prediction](teamwhatever.pdf)
 
 Team Red (Jim, Joe, Bell): [Economic Forces](teamred.md)
 
