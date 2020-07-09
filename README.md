@@ -1,9 +1,13 @@
 ## Our Election Analytics Blogs
 
 Team Blue (Jim, Joe, Bell, Chris): [Economic Forces](test.md)
+
 Team Sth (Tedd, Lea, Pete): [Polling and Prediction](test.md)
+
 Team Whatever (Seth, Bean, Apple): [Polling and Prediction](test.md)
+
 Team Red (Jim, Joe, Bell): [Economic Forces](test.md)
+
 Team Yellow (Jim, Joe, Bell): [Economic Forces](test.md)
 
 # How it works
