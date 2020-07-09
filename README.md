@@ -21,6 +21,7 @@ Please update your team's blog every week by Tuesday night before class.
 ## Instructor Contact
 
 Professor: Ryan Enos ()
+
 TF: Soubhik Barari (), Sun Young Park (sunyoungpark@g.harvard.edu)
 
 ### Markdown basics
