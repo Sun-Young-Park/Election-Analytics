@@ -10,19 +10,19 @@ Team Red (Jim, Joe, Bell): [Economic Forces](test.md)
 
 Team Yellow (Jim, Joe, Bell): [Economic Forces](test.md)
 
-## How it works
-
-Students can either (1) use the mardown file of thier team on [our GitHub project repository](https://github.com/Sun-Young-Park/Election-Analytics) to edit their page or (2) upload thier pdf and tag it with the syntax: ```markdown [title](filename.pdf)``` Whenever they commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site.
-
-## Timeline
-
-Please update your team's blog every week by Tuesday night before class.
-
 ## Instructor Contact
 
 Professor: Ryan Enos ()
 
 TF: Soubhik Barari (), Sun Young Park (sunyoungpark@g.harvard.edu)
+
+## Timeline
+
+Please update your team's blog every week by Tuesday night before class.
+
+## How it works
+
+Students can either (1) use the mardown file of thier team on [our GitHub project repository](https://github.com/Sun-Young-Park/Election-Analytics) to edit their page or (2) upload thier pdf and tag it with the syntax: ```markdown [title](filename.pdf)``` Whenever they commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site.
 
 ### Markdown basics
 
