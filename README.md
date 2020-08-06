@@ -1,24 +1,19 @@
-# Our Election Analytics Blogs
+Welcome to my blog! This blog will be updated every Sunday during the election season. Feel free to contact me (sunyoungpark@g.harvard.edu) if you have any questions and comments.
 
-Team Blue (Jim, Joe, Bell, Chris): [Economic Forces](teamblue.md)
+# Past Presidential Elections
 
-Team Sth (Tedd, Lea, Pete): [Polling and Prediction](teamsth.md)
 
-Team Whatever (Seth, Bean, Apple): [Polling and Prediction](teamwhatever.pdf)
+![](map_grid3.pdf)
 
-Team Red (Jim, Joe, Bell): [Economic Forces](teamred.md)
 
-Team Yellow (Jim, Joe, Bell): [Economic Forces](teamyellow.md)
-
-## Instructor Contact
+# Economic Forces
 
 Professor: Ryan Enos ()
 
 TF: Soubhik Barari (), Sun Young Park (sunyoungpark@g.harvard.edu)
 
-## Timeline
+# Timeline
 
-Please update your team's blog every week by Tuesday night before class.
 
 ## How it works
 
