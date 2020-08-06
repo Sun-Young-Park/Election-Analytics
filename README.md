@@ -1,4 +1,4 @@
-Welcome to my blog! This blog will be updated every Sunday during the election season. Feel free to contact me (sunyoungpark@g.harvard.edu) if you have any questions and comments.
+Welcome to my election prediction blog! It's updated every Sunday. Feel free to reach out to me (sunyoungpark@g.harvard.edu) if you have any comments and questions.
 
 # Past Presidential Election Results
 
@@ -8,15 +8,9 @@ Welcome to my blog! This blog will be updated every Sunday during the election s
 
 # Polls
 
+Can we trust polls? 
 
-# Economic Forces
-
-Professor: Ryan Enos ()
-
-TF: Soubhik Barari (), Sun Young Park (sunyoungpark@g.harvard.edu)
-
-# Timeline
-
+We have to note that good pollsters [same raw data, four different predictions](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
 
 ## How it works
 
