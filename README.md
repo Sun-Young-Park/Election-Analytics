@@ -20,13 +20,15 @@ lm(voteshare ~ polls + econ + incumbency + ads + mobi + covidcases + admin, data
 
 Can we trust polls? In 2016, many polls did not expect Trump's win. Below is the polling average across months leading up to 2016 election.
 
-![](polls_2016.png)
+![](polls2016.png)
 
 ### Pollsters
 
-https://projects.fivethirtyeight.com/pollster-ratings/
+Not all pollsters provide high quality data and interpretation. FiveThirtyEight provides pollster ratings based on the accuracy of their past prediction: https://projects.fivethirtyeight.com/pollster-ratings/
 
-We have to note that even good pollsters could disagree. [same raw data, four different predictions](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
+But it is importnatn to note that even good pollsters could disagree frequently. [Same raw data can lead to different predictions by renowned pollsters.](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
+
+### Polls do predict the outcome by and large.
 
 ![](polls_results.png)
 
