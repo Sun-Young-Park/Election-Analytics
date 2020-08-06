@@ -34,7 +34,7 @@ Can we trust polls? In 2016, many polls did not expect Trump's win. Below is the
 
 + But it is importnatn to note that even good pollsters could disagree frequently. [Same raw data can lead to different predictions by renowned pollsters.](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
 
-## Predictive Power
+### Predictive Power
 
 Polls do predict the outcome by and large.
 
@@ -45,6 +45,8 @@ Polls do predict the outcome by and large.
 1. GDP growth
 2. Real Disposable Income
 3. Unemployment
+
+For the detailed analysis, please see this separate page.
 
 ## Incumbency
 
