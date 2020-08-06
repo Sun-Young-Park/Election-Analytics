@@ -2,7 +2,7 @@ _An example blog for Gov1347_
 
 -------
 
-Welcome to my election prediction blog! It will be updated **every Sunday.** Feel free to reach out to me [sunyoungpark@g.harvard.edu](sunyoungpark@g.harvard.edu) if you have any comments and questions.
+Welcome to my election prediction blog! It will be updated **every Sunday.** Feel free to reach out to me ([sunyoungpark@g.harvard.edu](sunyoungpark@g.harvard.edu)) if you have any comments and questions.
 
 # Past Presidential Election Results
 
