@@ -1,16 +1,20 @@
 Welcome to my election prediction blog! It's updated every Sunday. Feel free to reach out to me (sunyoungpark@g.harvard.edu) if you have any comments and questions.
 
-# Past Presidential Election Results
+# Historical Presidential Election Results
 
-![](historical_results.png)
+![](past_results.png)
 
-![](historical_results_state.png)
+![](past_results_state.png)
 
-# Polls
+# How to predict election outcome?
+
+## Polls
 
 Can we trust polls? 
 
 We have to note that even good pollsters [same raw data, four different predictions](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
+
+## Economic Forces
 
 ## How it works
 
