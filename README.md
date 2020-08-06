@@ -1,6 +1,8 @@
-_An example blog for the undergraduate course, Gov1347, at Harvard._
+_An example blog for Gov1347_
 
-Welcome to my election prediction blog! It will be updated **every Sunday.** Feel free to reach out to me (sunyoungpark@g.harvard.edu) if you have any comments and questions.
+-------
+
+Welcome to my election prediction blog! It will be updated **every Sunday.** Feel free to reach out to me [sunyoungpark@g.harvard.edu](sunyoungpark@g.harvard.edu) if you have any comments and questions.
 
 # Past Presidential Election Results
 
@@ -29,7 +31,7 @@ Can we trust polls? In 2016, many polls did not expect Trump's win. Below is the
 
 ### Pollsters
 
-+ Not all pollsters provide high quality data and interpretation. FiveThirtyEight provides *pollster ratings* based on the accuracy of their past prediction: https://projects.fivethirtyeight.com/pollster-ratings/
++ Not all pollsters provide high quality data and interpretation. FiveThirtyEight provides *pollster ratings* based on the accuracy of their past prediction: [https://projects.fivethirtyeight.com/pollster-ratings/](https://projects.fivethirtyeight.com/pollster-ratings/)
 
 + But it is importnatn to note that even good pollsters could disagree frequently. [Same raw data can lead to different predictions by renowned pollsters.](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
 
@@ -58,6 +60,8 @@ For the detailed analysis, please see this [separate page.](polls_code.md)
 See [Ashworth et al. 2017](ashworth2018.pdf) and [Healy and Malhotra 2013](healy_review.pdf) for comprehensive review of the literature.
 
 ## Law and Adminisration
+
+-----
 
 ### cf. Markdown basics
 
