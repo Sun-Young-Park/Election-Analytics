@@ -2,6 +2,8 @@ Welcome to my blog! This blog will be updated every Sunday during the election s
 
 # Past Presidential Election Results
 
+![](president_popvote.png)
+
 ![](historical_election_results.pdf)
 
 # Polls
