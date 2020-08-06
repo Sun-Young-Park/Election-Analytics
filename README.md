@@ -47,7 +47,7 @@ Polls do predict the outcome by and large.
 2. Real Disposable Income
 3. Unemployment
 
-For the detailed analysis, please see this [separate page.](polls_code.md)
+For the detailed analysis, please see this [separate page.](econ_analysis.md)
 
 ## Incumbency
 
