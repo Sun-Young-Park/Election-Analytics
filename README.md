@@ -1,6 +1,4 @@
-```markdown
-This is an example blog for the undergraduate course, Gov1347, at Harvard.
-````
+_An example blog for the undergraduate course, Gov1347, at Harvard._
 
 Welcome to my election prediction blog! It will be updated **every Sunday.** Feel free to reach out to me (sunyoungpark@g.harvard.edu) if you have any comments and questions.
 
@@ -19,7 +17,8 @@ We can also see which states vote blue/red and how consistently so.
 I will try to predict 2020 election outcome using 7 variables: polling results, economic indexes, incumbency, campaign expenditure, mobilization stratetgies, exogenous shocks such as COVID19, and election administration. I use `R` and a simple ordinary least square model.
 
 ```r
-lm(voteshare ~ polls + econ + incumbency + ads + mobi + covidcases + admin, data)
+lm(voteshare ~ polls + econ + incumbency + ads + 
+               mobi + covidcases + admin, data)
 ```
 
 ## Polls
@@ -46,7 +45,7 @@ Polls do predict the outcome by and large.
 2. Real Disposable Income
 3. Unemployment
 
-For the detailed analysis, please see this separate page.
+For the detailed analysis, please see this [separate page.](polls_code.md)
 
 ## Incumbency
 
@@ -56,11 +55,11 @@ For the detailed analysis, please see this separate page.
 
 ## Shocks
 
+See [Ashworth et al. 2017](ashworth2018.pdf) and [Healy and Malhotra 2013](healy_review.pdf) for comprehensive review of the literature.
+
 ## Law and Adminisration
 
 ### cf. Markdown basics
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
