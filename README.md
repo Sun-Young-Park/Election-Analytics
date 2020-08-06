@@ -1,6 +1,6 @@
 Welcome to my election prediction blog! It's updated every Sunday. Feel free to reach out to me (sunyoungpark@g.harvard.edu) if you have any comments and questions.
 
-# Historical Presidential Election Results
+# Past Presidential Election Results
 
 ![](past_results.png)
 
@@ -10,11 +10,17 @@ We can also see which states vote blue/red and how consistently so.
 
 # How to predict election outcome?
 
+I will try to predict 2020 election outcome using 7 variables: polling results, economic indexes, incumbency, campaign expenditure, mobilization stratetgies, exogenous shocks such as COVID19, and election administration. I use R and a simple ordinary least square model.
+
 ## Polls
 
-Can we trust polls? 
+Can we trust polls? In 2016, many polls did not expect Trump's win. Below is the polling average across months leading up to 2016 election.
 
-We have to note that even good pollsters [same raw data, four different predictions](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
+### Pollsters
+
+https://projects.fivethirtyeight.com/pollster-ratings/
+
+We have to note that even good pollsters could disagree. [same raw data, four different predictions](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
 
 ## Economic Forces
 
