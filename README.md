@@ -6,7 +6,7 @@ Welcome to my election prediction blog! It's updated every Sunday. Feel free to 
 
 We can also see which states vote blue/red and how consistently so.
 
-![](past_results_state.png)
+![](past_results_bystate.png)
 
 # How to predict election outcome?
 
