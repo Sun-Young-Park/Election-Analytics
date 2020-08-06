@@ -6,7 +6,7 @@ Welcome to my election prediction blog! It will be updated **every Sunday.** Fee
 
 # Past Presidential Election Results
 
-The prediction of the future is based on the patterns of the past. If X tended to predict Y well, we would want to use those X in our model. So we start our journey by looking into past election results. Try to find any regularity.
+The prediction of the future is based on the patterns of the past. If X tended to predict Y well, we would want to use those X in our model. So we start our journey by looking into past election results.
 
 ![](past_results.png)
 
@@ -33,7 +33,7 @@ Can we trust polls? In 2016, many polls did not expect Trump's win. Below is the
 
 + Not all pollsters provide high quality data and interpretation. FiveThirtyEight provides *pollster ratings* based on the accuracy of their past prediction: [https://projects.fivethirtyeight.com/pollster-ratings/](https://projects.fivethirtyeight.com/pollster-ratings/)
 
-+ But it is importnatn to note that even good pollsters could disagree frequently. [Same raw data can lead to different predictions by renowned pollsters.](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
++ But it is importnant to note that even good pollsters often disagree. [Same raw data can lead to different predictions by renowned pollsters.](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
 
 ### Predictive Power
 
