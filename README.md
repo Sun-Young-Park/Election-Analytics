@@ -10,7 +10,7 @@ Welcome to my election prediction blog! It's updated every Sunday. Feel free to 
 
 Can we trust polls? 
 
-We have to note that good pollsters [same raw data, four different predictions](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
+We have to note that even good pollsters [same raw data, four different predictions](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
 
 ## How it works
 
