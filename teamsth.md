@@ -1,2 +1,0 @@
-
-team sth sth sth
