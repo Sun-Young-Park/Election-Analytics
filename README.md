@@ -25,7 +25,7 @@ lm(voteshare ~ polls + econ + incumbency + ads +
 
 ## Polls
 
-Can we trust polls? In 2016, many polls did not expect Trump's win. Below is the polling average across months leading up to 2016 election.
+Can we trust polls? In 2016, many polls did not predict Trump's win. Below is the polling average across months leading up to 2016 election.
 
 ![](polls2016.png)
 
