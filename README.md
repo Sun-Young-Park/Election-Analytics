@@ -1,9 +1,10 @@
 Welcome to my blog! This blog will be updated every Sunday during the election season. Feel free to contact me (sunyoungpark@g.harvard.edu) if you have any questions and comments.
 
-# Past Presidential Elections
+# Past Presidential Election Results
 
+![](historical_election_results.pdf)
 
-![](map_grid3.pdf)
+# Polls
 
 
 # Economic Forces
