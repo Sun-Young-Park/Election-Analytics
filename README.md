@@ -57,7 +57,7 @@ For the detailed analysis, please see this [separate page.](polls_code.md)
 
 ## Shocks
 
-See [Ashworth et al. 2017](ashworth2018.pdf) and [Healy and Malhotra 2013](healy_review.pdf) for comprehensive review of the literature.
+See [Ashworth et al. 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12334) and [Healy and Malhotra 2013](healy_review.pdf) for comprehensive review of the literature.
 
 ## Law and Adminisration
 
