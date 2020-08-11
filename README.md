@@ -2,11 +2,11 @@ _An example blog for Gov1347_
 
 -------
 
-Welcome to my election prediction blog! It will be updated **every Sunday.** Feel free to reach out to me ([sunyoungpark@g.harvard.edu](sunyoungpark@g.harvard.edu)) if you have any comments and questions.
+Welcome to my election analysis blog! It will be updated **every Sunday.** Feel free to reach out to me ([sunyoungpark@g.harvard.edu](sunyoungpark@g.harvard.edu)) if you have any comments or questions.
 
 # Past Presidential Election Results
 
-The prediction of the future is based on the patterns of the past. If X tended to predict Y well, we would want to use that X in our model. So we start our journey by looking into past election results.
+Predictions of the future are based on the patterns of the past. If X tended to predict Y well in the past, we would want to use that X in our model. So we start our journey by looking into past presidential election results.
 
 ![](past_results.png)
 
