@@ -1,4 +1,4 @@
-_An example blog for Gov1347_
+_An example blog for Gov 1347_
 
 -------
 
@@ -12,6 +12,8 @@ Predictions of the future are based on the patterns of the past. If X tended to 
 One thing in particular stands out: in the last 60 or so years, the race for the presidency has been **remarkably competitive between the two major parties**:
 
 ![](past_results.png)
+
+The first half of the twentieth century experienced greater swings and greater margins of victory, while point spreads in the last 20 years have been less than 10 points. Moreover, since 1996 only one Presidential candidate has won more than 50% of popular votes cast -- Barack Obama! (TODO)
 
 We can also see which states vote blue/red and how consistently so.
 
