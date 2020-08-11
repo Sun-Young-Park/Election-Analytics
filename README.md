@@ -5,8 +5,11 @@ _An example blog for Gov1347_
 Welcome to my election analysis blog! It will be updated **every Sunday.** Feel free to reach out to me ([sunyoungpark@g.harvard.edu](sunyoungpark@g.harvard.edu)) if you have any comments or questions.
 
 # Past Presidential Election Results
+## Aug 30, 2020
 
-Predictions of the future are based on the patterns of the past. If X tended to predict Y well in the past, we would want to use that X in our model. So we start our journey by looking into past presidential election results. One thing in particular stands out: in the last 60 or so years, the race for the presidency has been **remarkably competitive between the two major parties**:
+Predictions of the future are based on the patterns of the past. If X tended to predict Y well in the past, we would want to use that X in our model. So we start our journey by looking into past presidential election results -- first at the national level. 
+
+One thing in particular stands out: in the last 60 or so years, the race for the presidency has been **remarkably competitive between the two major parties**:
 
 ![](past_results.png)
 
