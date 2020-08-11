@@ -6,7 +6,7 @@ Welcome to my election analysis blog! It will be updated *every Sunday.* Feel fr
 
 A note for students on blogging / writing principles:
 
-* Please either title your figures in `R` or label them in the `.md` files.
+* Please either title your figures in `R` or caption them in the `.md` files.
 * Please date each entry.
 * Each blog entry should be no more than 1000 words. 
 * A good blog post will focus on 2-3 big points (observations or predictions or opinions or insights) and provide clear, interpretable, and convincing evidence -- that is, analysis, visualizations, and qualitative commentary -- supporting that.
@@ -21,7 +21,7 @@ Predictions of the future are based on the patterns of the past. If X tended to 
 
 **Elections are generally competitive between the two parties.** One thing in particular stands out: in the last 60 or so years, the race for the presidency has overall been *remarkably competitive between the two major parties*. Since FDR, neither Republicans nor Democrats have maintained a monopoly over the White House:
 
-![](past_results.png)
+![Presidential Popular Voteshare (1948-2016)](past_results.png)
 
 The first half of the twentieth century experienced greater swings and greater margins of victory, while point spreads in the last 20 years have been less than 10 points. The 3 <u>closest</u> elections in the last 60 years and their "prevailing narratives" are:
 
