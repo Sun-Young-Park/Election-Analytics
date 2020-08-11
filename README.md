@@ -12,6 +12,8 @@ A note for students on blogging / writing principles:
 * A good blog post will focus on 2-3 big points (observations or predictions or opinions or insights) and provide clear, interpretable, and convincing evidence -- that is, analysis, visualizations, and qualitative commentary -- supporting that.
 * Tip: use **bold** and *italics* wisely -- **bold** is most effective for highlighting your big points as section headings or paragraph starters, while *italics* help draw attention to surprising statements, facts, or concepts. 
 
+Here is an example blog post for reference. It's not perfect, nor finished, but has the key elements of a good election analysis blog.
+
 # Past Presidential Election Results
 ## Aug 30, 2020
 
@@ -30,29 +32,29 @@ The first half of the twentieth century experienced greater swings and greater m
 
 **A winner-take-all system with electors based on population distorts win margins.** We note another set of observations around *the winner's popular vote*. First, very famously in two races, the winner of the popular vote lost the election: Al Gore in 2000 and Hillary Clinton in 2016. This is a reflection of how *each* popular vote for a candidate is not equally valuable to their electoral victory because of the electoral college. The <u>state</u> where it is won matters. 
 
-For example, winning 22 million votes in California (a state with 25 million voting-age citizens) is impressive but unnecessary to beat your opponent and win its 55 electoral votes (EV). Instead, it would be better if a candidate just won a slim majority of 12.5 million votes in California (55 EV), a slim majority of 5 million votes in Pennsylvannia (20 EV), and a slim majority of 4.5 million votes in North Carolina (15 EV). That's the same 22 million votes, but in one scenario a candidate wins 55 EV while in the other a candidate wins 90 EV. Whoa! This is an illustration of the distortions of a *winner-takes-all* electoral system where slim majorities in just a few moderately large states (which promise substantial EVs!) translate to huge electoral gains. Empirically, it ends up that electoral college vote margins [are more dramatic](https://www.pewresearch.org/fact-tank/2016/12/20/why-electoral-college-landslides-are-easier-to-win-than-popular-vote-ones/) than popular vote margins.
+For example, winning `22 million` votes in California (a state with 25 million voting-age citizens) is impressive but unnecessary to beat your opponent and win its 55 electoral votes (EV). Instead, it would be better if a candidate just won a slim majority of `12.5 million` votes in California (55 EV), a slim majority of `5 million votes` in Pennsylvannia (`20 EV`), and a slim majority of `4.5 million votes` in North Carolina (`15 EV`). That's the same `22 million votes`, but in one scenario a candidate wins `55 EV` while in the other a candidate wins `90 EV`. Whoa! 
 
-This is why presidential candidates tend to (mostly) focus their resources on moderately large swing states where they can win by a slim majority rather than firing up the base or purusing lost causes. 
+This is an illustration of the distortions of a *winner-takes-all* electoral system where slim majorities in just a few moderately large states (which promise substantial EVs!) translate to huge electoral gains. Empirically, it ends up that electoral college vote margins [are more dramatic](https://www.pewresearch.org/fact-tank/2016/12/20/why-electoral-college-landslides-are-easier-to-win-than-popular-vote-ones/) than popular vote margins. This is why presidential candidates tend to (mostly) focus their resources on moderately large swing states where they can win by a slim majority rather than firing up the base or purusing lost causes. 
 
 Below we can see which states vote blue/red and how consistently so. In section, we will produce more nuanced versions of these maps that highlight ''swinginess'' of various states.
 
 ![](past_results_state.png)
 
-**Prediction: using **
+**Prediction: using past election returns.** Using the insights above, I will predict 2020 election state-by-state election outcomes, for each state `i` simply using the average of the past two election popular vote returns: 
 
-<!--
-I will try to predict 2020 election outcome using 7 variables: polling results, economic indexes, incumbency, campaign expenditure, mobilization stratetgies, exogenous shocks such as COVID-19, and election administration. I use `R` and a simple ordinary least square model specified as follows:
-
-```r
-lm(voteshare ~ polls + econ + incumbency + ads + 
-               mobi + covidcases + admin, data)
 ```
--->
+voteshare2020_i = (voteshare2016_i + voteshare2012_i)/2
+```
 
 (Results in graphical form with commentary follows here)
 
 <!--
 ## Polls
+
+```r
+lm(voteshare ~ polls + econ + incumbency + ads + 
+               mobi + covidcases + admin, data)
+```
 
 Can we trust polls? In 2016, many polls did not predict Trump's win. Below is the polling average across months leading up to 2016 election.
 
