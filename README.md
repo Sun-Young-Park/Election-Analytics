@@ -8,14 +8,16 @@ A note for students on blogging / writing principles:
 
 * Please either title your figures in `R` or label them in the `.md` files.
 * Please date each entry.
-* Each blog entry should be no more than 1000 words. A good blog post tends to focus on 2-3 big points (observations or predictions or opinions) and provides clear and interpretable evidence -- that is, analysis, visualizations, and qualitative commentary -- supporting that.
+* Each blog entry should be no more than 1000 words. 
+* A good blog post will focus on 2-3 big points (observations or predictions or opinions or insights) and provide clear, interpretable, and convincing evidence -- that is, analysis, visualizations, and qualitative commentary -- supporting that.
+* Tip: use **bold** and *italics* wisely -- **bold** is most effective for highlighting your big points as section headings or paragraph starters, while *italics* help draw attention to surprising statements, facts, or concepts. 
 
 # Past Presidential Election Results
 ## Aug 30, 2020
 
 Predictions of the future are based on the patterns of the past. If X tended to predict Y well in the past, we would want to use that X in our model. So we start our journey by looking into past presidential election results -- first at the national level. 
 
-One thing in particular stands out: in the last 60 or so years, the race for the presidency has been **remarkably competitive between the two major parties**. Since FDR, neither Republicans nor Democrats have maintained a monopoly over the White House:
+One thing in particular stands out: in the last 60 or so years, the race for the presidency has been *remarkably competitive between the two major parties*. Since FDR, neither Republicans nor Democrats have maintained a monopoly over the White House:
 
 ![](past_results.png)
 
@@ -26,9 +28,9 @@ The first half of the twentieth century experienced greater swings and greater m
 * **1976**
 * **2000**
 
-We note another set of observations around **the winner's popular vote**. First, very famously in two races, the winner of the popular vote lost the election: Al Gore in 2000 and Hillary Clinton in 2016. This is a reflection of how *each* popular vote for a candidate is not equally valuable to their electoral victory because of the electoral college. The <u>state</u> where it is won matters. 
+We note another set of observations around *the winner's popular vote*. First, very famously in two races, the winner of the popular vote lost the election: Al Gore in 2000 and Hillary Clinton in 2016. This is a reflection of how *each* popular vote for a candidate is not equally valuable to their electoral victory because of the electoral college. The <u>state</u> where it is won matters. 
 
-For example, winning 22 million votes in California (a state with 25 million voting-age citizens) is impressive but unnecessary to beat your opponent and win its 55 electoral votes (EV). Instead, it would be better if a candidate just won a slim majority of 12.5 million votes in California (55 EV), a slim majority of 5 million votes in Pennsylvannia (20 EV), and a slim majority of 4.5 million votes in North Carolina (15 EV). That's the same 22 million votes, but in one scenario a candidate wins 55 EV while in the other a candidate wins 90 EV. Whoa! This is an illustration of the distortions of a **winner-takes-all** electoral system where slim majorities in just a few moderately large states translate to huge gains in electoral college votes. Empirically, it ends up that electoral college vote margins [are more dramatic](https://www.pewresearch.org/fact-tank/2016/12/20/why-electoral-college-landslides-are-easier-to-win-than-popular-vote-ones/) than popular vote margins.
+For example, winning 22 million votes in California (a state with 25 million voting-age citizens) is impressive but unnecessary to beat your opponent and win its 55 electoral votes (EV). Instead, it would be better if a candidate just won a slim majority of 12.5 million votes in California (55 EV), a slim majority of 5 million votes in Pennsylvannia (20 EV), and a slim majority of 4.5 million votes in North Carolina (15 EV). That's the same 22 million votes, but in one scenario a candidate wins 55 EV while in the other a candidate wins 90 EV. Whoa! This is an illustration of the distortions of a *winner-takes-all* electoral system where slim majorities in just a few moderately large states translate to huge gains in electoral college votes. Empirically, it ends up that electoral college vote margins [are more dramatic](https://www.pewresearch.org/fact-tank/2016/12/20/why-electoral-college-landslides-are-easier-to-win-than-popular-vote-ones/) than popular vote margins.
 
 This is why presidential candidates tend to (mostly) focus their resources on swing states where they can win by a slim majority rather than firing up the base or purusing lost causes. 
 
