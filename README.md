@@ -23,16 +23,21 @@ Predictions of the future are based on the patterns of the past. If X tended to 
 
 ![](past_results.png)
 
-The first half of the twentieth century experienced greater swings and greater margins of victory, while point spreads in the last 20 years have been less than 10 points. We can zero in a few specific races and the prevailing narratives around the horse race:
+The first half of the twentieth century experienced greater swings and greater margins of victory, while point spreads in the last 20 years have been less than 10 points. The 4 closest elections in the last 60 years and their "prevailing narratives" are:
 
-* **1960**
-* **1968**
-* **1976**
-* **2000**
+* **2000, `0.5%` margin or 500k votes (Bush vs. Gore).** Gore managed to distance himself from Clinton's scandals (which put him neckand-neck with Bush); though, really, this was anyone's election.
+* **1960, `0.7%` margin or 120k votes (JFK vs. Nixon).** The Republican party was hurt by the 1958 recession (we'll talk about this more when we read [The Message Matters](https://www.amazon.com/Message-Matters-Economy-Presidential-Campaigns/dp/0691139636)); JFK mobilized a new cohort of Catholic voters; JFK campaigned wisely in key swing states. 
+* **1968, `0.7%` margin or 500k votes (Nixon vs. Humphrey).** As the South began to re-align, Nixon's [Southern Strategy](https://en.wikipedia.org/wiki/Southern_strategy) appealed to racist whites in the South; beginning of the "culture wars" which favored the Republicans in rural areas; protests against Humphrey for his unpopular pro-war position.
+* **1976, `2.1%` margin or 1.7 million votes (Carter vs. Ford).** Incumbent Republicans saddled by a poor economy (again) and hurt by Watergate scandal; Carter campaigned effectively as an "outsider"; blunders by Ford on the campaign trail.
+
+Similarly, the 4 biggest landslides in the last 60 years are:
+
+
+We will explore this semester, what empirical evidence we really have for these "prevailing narratives" and whether they generalize beyond these races.
 
 **A winner-take-all system with electors based on population distorts win margins.** We note another set of observations around *the winner's popular vote*. First, very famously in two races, the winner of the popular vote lost the election: Al Gore in 2000 and Hillary Clinton in 2016. This is a reflection of how *each* popular vote for a candidate is not equally valuable to their electoral victory because of the electoral college. The <u>state</u> where it is won matters. 
 
-For example, winning `22 million` votes in California (a state with 25 million voting-age citizens) is impressive but unnecessary to beat your opponent and win its 55 electoral votes (EV). Instead, it would be better if a candidate just won a slim majority of `12.5 million` votes in California (55 EV), a slim majority of `5 million votes` in Pennsylvannia (`20 EV`), and a slim majority of `4.5 million votes` in North Carolina (`15 EV`). That's the same `22 million votes`, but in one scenario a candidate wins `55 EV` while in the other a candidate wins `90 EV`. Whoa! 
+For example, winning 22 million votes in California (a state with 25 million voting-age citizens) is impressive but unnecessary to beat your opponent and win its 55 electoral votes (`EV`). Instead, it would be better if a candidate just won a slim majority of 12.5 million votes in California (`55 EV`), a slim majority of 5 million votes in Pennsylvannia (`20 EV`), and a slim majority of 4.5 million votes in North Carolina (`15 EV`). That's the same 22 million votes, but in one scenario a candidate wins `55 EV` while in the other a candidate wins `90 EV`. Whoa! 
 
 This is an illustration of the distortions of a *winner-takes-all* electoral system where slim majorities in just a few moderately large states (which promise substantial EVs!) translate to huge electoral gains. Empirically, it ends up that electoral college vote margins [are more dramatic](https://www.pewresearch.org/fact-tank/2016/12/20/why-electoral-college-landslides-are-easier-to-win-than-popular-vote-ones/) than popular vote margins. This is why presidential candidates tend to (mostly) focus their resources on moderately large swing states where they can win by a slim majority rather than firing up the base or purusing lost causes. 
 
