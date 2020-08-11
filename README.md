@@ -7,9 +7,13 @@ Welcome to my election analysis blog! It will be updated *every Sunday.* Feel fr
 A note for students on blogging / writing principles:
 
 * Please either title your figures in `R` or caption them in the `.md` files.
+
 * Please date each entry.
+
 * Each blog entry should be no more than 1000 words. 
+
 * A good blog post will focus on 2-3 big points (observations or predictions or opinions or insights) and provide clear, interpretable, and convincing evidence -- that is, analysis, visualizations, and qualitative commentary -- supporting that.
+
 * Tip: use **bold** and *italics* wisely -- **bold** is most effective for highlighting your big points as section headings or paragraph starters, while *italics* help draw attention to surprising statements, facts, or concepts. 
 
 Here is an example blog post for reference. It's not perfect, but has the elements of a good election analysis blog.
