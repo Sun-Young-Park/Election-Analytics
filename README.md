@@ -4,6 +4,12 @@ _An example blog for Gov 1347_
 
 Welcome to my election analysis blog! It will be updated **every Sunday.** Feel free to reach out to me ([sunyoungpark@g.harvard.edu](sunyoungpark@g.harvard.edu)) if you have any comments or questions.
 
+A note for students on blogging / writing principles:
+
+* Please either title your figures in `R` or label them in the `.md` files.
+* Please date each entry.
+* Each blog entry should be no more than 1000 words. A good blog post tends to focus on 2-3 big points (observations or predictions or opinions) and provides clear and interpretable evidence -- that is, analysis, visualizations, and qualitative commentary -- supporting that.
+
 # Past Presidential Election Results
 ## Aug 30, 2020
 
