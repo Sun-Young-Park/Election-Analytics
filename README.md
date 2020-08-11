@@ -15,16 +15,18 @@ One thing in particular stands out: in the last 60 or so years, the race for the
 
 The first half of the twentieth century experienced greater swings and greater margins of victory, while point spreads in the last 20 years have been less than 10 points. We can zero in a few specific races and the prevailing narratives around the horse race:
 
-* 1960
-* 1968
-* 1976
-* 2000
+* **1960**
+* **1968**
+* **1976**
+* **2000**
 
 We note another set of observations around **the winner's popular vote**. First, very famously in two races, the winner of the popular vote lost the election: Al Gore in 2000 and Hillary Clinton in 2016. This is a reflection of how *each* popular vote for a candidate is not equally valuable to their electoral victory because of the electoral college. The <u>state</u> where it is won matters. 
 
 For example, winning 22 million votes in California (a state with 25 million voting-age citizens) is impressive but unnecessary to beat your opponent and win its 55 electoral votes (EV). Instead, it would be better if a candidate just won a slim majority of 12.5 million votes in California (55 EV), a slim majority of 5 million votes in Pennsylvannia (20 EV), and a slim majority of 4.5 million votes in North Carolina (15 EV). That's the same 22 million votes, but in one scenario a candidate wins 55 EV while in the other a candidate wins 90 EV. Whoa! This is an illustration of the distortions of a **winner-takes-all** electoral system where slim majorities in just a few moderately large states translate to huge gains in electoral college votes. Empirically, it ends up that electoral college vote margins [are more dramatic](https://www.pewresearch.org/fact-tank/2016/12/20/why-electoral-college-landslides-are-easier-to-win-than-popular-vote-ones/) than popular vote margins.
 
-This is why presidential candidates tend to (mostly) focus their resources on swing states where they can win by a slim majority rather than firing up the base or purusing lost causes. We can also see which states vote blue/red and how consistently so.
+This is why presidential candidates tend to (mostly) focus their resources on swing states where they can win by a slim majority rather than firing up the base or purusing lost causes. 
+
+Below we can see which states vote blue/red and how consistently so. In section, we will produce more nuanced versions of these maps that highlight ''swinginess'' of various states.
 
 ![](past_results_state.png)
 
