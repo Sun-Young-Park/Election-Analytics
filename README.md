@@ -1,9 +1,5 @@
 _An example blog for Gov 1347_
 
--------
-
-Welcome to my election analysis blog! It will be updated *every Sunday.* Feel free to reach out to me ([sunyoungpark@g.harvard.edu](sunyoungpark@g.harvard.edu)) if you have any comments or questions.
-
 A note for students on blogging / writing principles:
 
 * Please either title your figures in `R` or caption them in the `.md` files.
@@ -17,6 +13,10 @@ A note for students on blogging / writing principles:
 * Tip: use **bold** and *italics* wisely -- **bold** is most effective for highlighting your big points as section headings or paragraph starters, while *italics* help draw attention to surprising statements, facts, or concepts. 
 
 Here is an example blog post for reference. It's not perfect, but has the elements of a good election analysis blog.
+
+-------
+
+Welcome to my election analysis blog! It will be updated *every Sunday.* Feel free to reach out to me ([sunyoungpark@g.harvard.edu](sunyoungpark@g.harvard.edu)) if you have any comments or questions.
 
 # Past Presidential Election Results
 ## Aug 30, 2020
