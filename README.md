@@ -2,7 +2,7 @@ _An example blog for Gov 1347_
 
 -------
 
-Welcome to my election analysis blog! It will be updated **every Sunday.** Feel free to reach out to me ([sunyoungpark@g.harvard.edu](sunyoungpark@g.harvard.edu)) if you have any comments or questions.
+Welcome to my election analysis blog! It will be updated *every Sunday.* Feel free to reach out to me ([sunyoungpark@g.harvard.edu](sunyoungpark@g.harvard.edu)) if you have any comments or questions.
 
 A note for students on blogging / writing principles:
 
