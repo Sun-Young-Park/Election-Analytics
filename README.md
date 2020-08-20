@@ -58,7 +58,7 @@ Below we can see which states vote blue/red and how consistently so. In section,
 **Prediction: using past election returns.** Using the insights above, I will predict 2020 election state-by-state election outcomes, for each state `i` simply using a weighted average of the past two election popular vote returns: 
 
 ```
-voteshare2020_i = (voteshare2016_i x 0.75) + (voteshare2012_i x 0.25)
+presvoteshare2020_i = (presvoteshare2016_i x 0.75) + (presvoteshare2012_i x 0.25)
 ```
 
 This is a simplification of the Helmut Norpath [electoral cycle model](https://pollyvote.com/en/naive/electoral-cycle-model/), and used just for demonstration purposes.
