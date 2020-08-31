@@ -6,7 +6,7 @@ A note for students on blogging / writing principles:
 
 * Please date each entry.
 
-* Each blog entry should be no more than 1000 words. 
+* Each blog entry should be between 500-1000 words and feature roughly 2-3 informative graphics.
 
 * A good blog post will focus on 2-3 big points (observations or predictions or opinions or insights) and provide clear, interpretable, and convincing evidence -- that is, analysis, visualizations, and qualitative commentary -- supporting that.
 
