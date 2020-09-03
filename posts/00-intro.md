@@ -5,7 +5,7 @@ Predictions of the future are based on the patterns of the past. If X tended to 
 
 **Elections are generally competitive between the two parties.** One thing in particular stands out: in the last 60 or so years, the race for the presidency has overall been *remarkably competitive between the two major parties*. Since FDR, neither Republicans nor Democrats have maintained a monopoly over the White House:
 
-![Presidential Popular Voteshare (1948-2016)](past_results.png)
+![Presidential Popular Voteshare (1948-2016)](../figures/past_results.png)
 
 The first half of the twentieth century experienced greater swings and greater margins of victory, while point spreads in the last 20 years have been less than 10 points. The 3 <u>closest</u> elections in the last 60 years and their "prevailing narratives" are:
 
@@ -33,7 +33,7 @@ This is an illustration of the distortions of a *winner-takes-all* electoral sys
 
 Below we can see which states vote blue/red and how consistently so. In section, we will produce more nuanced versions of these maps that highlight ''swinginess'' of various states.
 
-![](past_results_state.png)
+![](../figures/past_results_state.png)
 
 **Prediction: using past election returns.** Using the insights above, I will predict 2020 election state-by-state election outcomes, for each state `i` simply using a weighted average of the past two election popular vote returns: 
 
