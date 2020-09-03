@@ -41,15 +41,16 @@ Below we can see which states vote blue/red and how consistently so. In section,
 presvoteshare2020_i = (presvoteshare2016_i x 0.75) + (presvoteshare2012_i x 0.25)
 ```
 
-See [../scripts/01-Intro.R](the related R script to replicate this analysis). The figure below shows the state-by-state forecasts:
+See [the related R script to replicate this analysis](../scripts/01-Intro.R). The figure below shows the state-by-state forecasts:
 
 ![](../figures/PV2020_simple_forecast.png)
 
 (Note that this map could be better labelled!)
 
-If we go on this naive historically weighted model, Trump is expected to win a number of key battleground states: Florida (`+0.7%`), North Carolina (`+3.4%`), Arizona (`+5.2%`), Ohio (`+5.6%`), and Georgia (`+6%`). On the other hand, Biden is favored to win a fair share of battelground states including his home-state Pennsylvannia (`+0.8%`), Michigan (`+2.2%`), Wisconsin (`+1.1%`), Minnesota (`+3.3%`), New Hampshire (`+1.7%`), and Maine (`-6.3%`). Note that the first three are midwestern states that Obama decisively won by more than `5%` in 2012, and Hilary lost **by less than `1%`** in 2016. Altogether, that spells out `279 EV` for Biden and `259 EV` for Trump in November.
+If we go on this naive historically weighted model, Trump is expected to win a number of key battleground states: Florida (`+0.7%`), North Carolina (`+3.4%`), Arizona (`+5.2%`), Ohio (`+5.6%`), and Georgia (`+6%`). On the other hand, Biden is favored to win a fair share of battelground states including his home-state Pennsylvannia (`+0.8%`), Michigan (`+2.2%`), Wisconsin (`+1.1%`), Minnesota (`+3.3%`), New Hampshire (`+1.7%`), and Maine (`-6.3%`). Note that the first three are midwestern states that Obama decisively won by more than `5%` in 2012, and Hillary lost **by less than `1%`** in 2016. Altogether, that spells out `279 EV` for Biden and `259 EV` for Trump in November.
 
-Amongst many things, this highlights how narrowly Hilary lost the popular vote in a few key states, which translated into her electoral college loss in 2016. A precise example of the electoral college's distortion on presidential election results.
+
+Amongst many things, this highlights how narrowly Hillary lost the popular vote in a few key states, which translated into her electoral college loss in 2016. A precise example of the electoral college's distortion on presidential election results.
 
 
 
