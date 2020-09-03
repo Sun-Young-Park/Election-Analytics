@@ -35,12 +35,19 @@ Below we can see which states vote blue/red and how consistently so. In section,
 
 ![](../figures/PV_states_historical.png)
 
-**Prediction: using past election returns.** Using the insights above, I will predict 2020 election state-by-state election outcomes, for each state `i` simply using a weighted average of the past two election popular vote returns: 
+**Prediction: using past election returns.** Noting from the first figure the general competitiveness of elections, we might infer that the best way to predict this year's election in each state is looking at the two *most recent* electoral cycles. This is the simple but central engine of the [Helmut Norpath electoral cycle model](https://pollyvote.com/en/naive/electoral-cycle-model/). I will predict 2020 election state-by-state election outcomes, for each state `i` using a simplified version of this model by taking a weighted average of the past two election popular vote returns: 
 
 ```
 presvoteshare2020_i = (presvoteshare2016_i x 0.75) + (presvoteshare2012_i x 0.25)
 ```
 
-This is a simplification of the Helmut Norpath [electoral cycle model](https://pollyvote.com/en/naive/electoral-cycle-model/), and used just for demonstration purposes.
+See [../scripts/01-Intro.R](the related R script to replicate this analysis). The figure below shows the state-by-state forecasts:
 
-(Results in graphical form with commentary follows here)
+![](../figures/PV2020_simple_forecast.png)
+
+(Note that this map could be better labelled!)
+
+If we go on this naive historically weighted model, Trump is expected to win a number of key battleground states: Florida (`+0.7%`), North Carolina (`+3.4%`), Arizona (`+5.2%`), Ohio (`+5.6%`), and Georgia (`+6%`). On the other hand, Biden is favored to win a fair share of battelground states including his home-state Pennsylvannia (`+0.8%`), Michigan (`+2.2%`), Wisconsin (`+1.1%`), Minnesota (`+3.3%`), New Hampshire (`+1.7%`), and Maine (`-6.3%`). Note that the first three are midwestern states that Obama decisively won by more than `5%` in 2012, and Hilary lost **by less than `1%`** in 2016. Amongst many things, this highlights how narrowly Hilary lost the popular vote in a few key states, which translated into her electoral college loss. A precise example of the electoral college's distortion on presidential election results.
+
+
+
