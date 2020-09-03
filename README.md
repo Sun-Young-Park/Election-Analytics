@@ -2,9 +2,9 @@ _An example blog for Gov 1347_
 
 Welcome to my election analysis blog! It will be updated *every Sunday.* Feel free to reach out to me ([sunyoungpark@g.harvard.edu](sunyoungpark@g.harvard.edu)) if you have any comments or questions.
 
-# [0. Introduction](posts/00-intro.md)
+# [1. Introduction](posts/01-Intro.md)
 
-# [1. Economy](posts/01-econ.md)
+# [2. Economy](posts/02-Econ.md)
 
 
 ### Some Markdown Basics
