@@ -35,13 +35,14 @@ Below we can see which states vote blue/red and how consistently so. In section,
 
 ![](../figures/PV_states_historical.png)
 
-**Prediction: simplified electoral cycle model.** Noting from the first figure the general competitiveness of elections, we might infer that the best way to predict this year's election in each state is looking at the two *most recent* electoral cycles. This is the simple but central engine of the [Helmut Norpath electoral cycle model](https://pollyvote.com/en/naive/electoral-cycle-model/) (Norpoth 2014). I will predict 2020 election state-by-state election outcomes, for each state `i` using a simplified version of this model by taking a weighted average of the past two election popular vote returns: 
+**Prediction: simplified electoral cycle model.** Noting from the first figure the general competitiveness of elections, we might infer that the best way to predict this year's election in each state is looking at the two *most recent* electoral cycles. This is the simple but central engine of the [Helmut Norpath electoral cycle model](https://pollyvote.com/en/naive/electoral-cycle-model/) (Norpoth 2014). I will predict 2020 election state-by-state election outcomes, for each state `i` using a simplified version of this model by taking a weighted average of the past two-party popular voteshares for each party: 
 
 ```
-presvoteshare2020_i = (presvoteshare2016_i x 0.75) + (presvoteshare2012_i x 0.25)
+Dvoteshare2020_i = (Dvoteshare2016_i x 0.75) + (Dvoteshare2012_i x 0.25)
+Rvoteshare2020_i = (Rvoteshare2016_i x 0.75) + (Rvoteshare2012_i x 0.25)
 ```
 
-See [the related R script to replicate this analysis](../scripts/01-Intro.R). The figure below shows the state-by-state forecasts:
+See [the related R script to replicate this analysis](../scripts/01-Intro.R). The figure below shows the state-by-state win-margin forecasts (which are `Rvoteshare2020_i - Dvoteshare2020_i`):
 
 ![](../figures/PV2020_simple_forecast.png)
 
