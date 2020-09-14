@@ -27,7 +27,7 @@ Similarly, the 3 biggest <u>landslides</u> in the last 60 years and their "preva
 
 * **1984, margin of `18.2%` or 17 million votes or `512 EV` (Reagan vs. Mondale).** Reagan enjoyed a post-recession economic recovery; Reagan was an effective ''soundbite'' generator in debates and on the campaign trail.
 
-These are, more or less, the accepted stories about these elections as compiled from various media articles on [Wikipedia](wikipedia.org). They teach us a few things: (1) a strong <span style="color:green">economy</span> can help the incumbent dominate, while a weak one may bring an "underdog" challenger to hairpin win, (2) a few <span style="color:green">tipping point states</span> are thought to be key to deciding in the winner. Conversely, there's mixed evidence about whether <span style="color:brown">shocks</span> really favor/disfavor the incumbent, and whether a candidate's overall <span="color:brown">message</span> seems to persuade or mobilize voters.
+These are, more or less, the accepted stories about these elections as compiled from various media articles on [Wikipedia](wikipedia.org). They teach us a few things: (1) a strong <span style="color:green">economy</span> can help the incumbent dominate, while a weak one may bring an "underdog" challenger to hairpin win, (2) a few <span style="color:green">tipping point states</span> are thought to be key to deciding in the winner. Conversely, there's mixed evidence about whether <span style="color:brown">shocks</span> really favor/disfavor the incumbent, and whether a candidate's overall <span style="color:brown">message</span> seems to persuade or mobilize voters.
 
 We will explore these topics this semester, what empirical evidence we really have for these "prevailing narratives" heralded by pundits, journalists, historians and many political scientists and whether they generalize beyond these races.
 
@@ -36,13 +36,13 @@ We will explore these topics this semester, what empirical evidence we really ha
 For example, winning 22 million votes in California (a state with 25 million voting-age citizens) is impressive but unnecessary to beat your opponent and win its 55 electoral votes (`EV`). Call this strategy **A** for those votes:
 
 ```
-22 million PV <span style='font-size:100px;'>&#8594;</span> 55 EV (CA)
+22 million PV = 55 EV (CA)
 ```
 
 Instead, it would be better if a candidate just won a slim majority of 12.5 million votes in California (`55 EV`), a slim majority of 5 million votes in Pennsylvannia (`20 EV`), and a slim majority of 4.5 million votes in North Carolina (`15 EV`). Call this strategy **B** for those votes:
 
 ```
-22 million PV <span style='font-size:100px;'>&#8594;</span> 55 EV (CA) + 20 EV (PA) + 15 EV (NC) = 90 EV
+22 million PV = 55 EV (CA) + 20 EV (PA) + 15 EV (NC) = 90 EV
 ```
 
 That's the same 22 million votes, but in one scenario a candidate wins `55 EV` while in the other a candidate wins `90 EV`. Whoa! 
