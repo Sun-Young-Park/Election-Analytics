@@ -2,13 +2,35 @@
 ## Sun Young Park & Soubhik Barari
 ## Aug 30, 2020
 
-Predictions of the future are based on the patterns of the past. If X tended to predict Y well in the past, we would want to use that X in our model to predict Y in the future. So we start our journey by looking into past presidential election results -- first two-party voteshare at the national level. We share two main insights and then make a prediction for 2020 based exclusively on past electoral results.
+Predictions of the future are based on the patterns of the past. If X tended to predict Y well in the past, we would want to use that X in our model to predict Y in the future. So we start our journey by looking into past presidential election results -- first two-party voteshare at the national level. We share two main insights, discuss historical narratives for a select few races, and then make a prediction for 2020 based exclusively on past electoral results.
 
 **Elections are generally competitive between the two parties.** One major observation in particular stands out: in the last 60 or so years, the race for the presidency has overall been *remarkably competitive between the two major parties*. By competitive, I mean: since FDR, neither Republicans nor Democrats have maintained a monopoly over the White House, if we look at two-party voteshare:
 
 ![Presidential Popular Voteshare (1948-2016)](../figures/PV_national_historical.png)
 
 The first half of the twentieth century experienced greater swings and greater margins of victory, while point spreads (or win margins) in the last 20 years have been less than 10 points. By looks of the first 5 election cycles in the 21st century, it looks like political competition has only <u>increased</u>, not decreased -- both in terms of control of the White House and the narrowness of win margins.
+
+Below we can see which states vote blue/red and how consistently so. In general, we can see that there are indeed "red states" that have voted blue (Louisiana, Arkansas) and "blue states" that have voted red (California, Massachusetts). In section, we will produce more nuanced versions of these maps that highlight the ''swinginess'' of various states.
+
+![](../figures/PV_states_historical.png)
+
+**A winner-take-all system with electors based on population distorts win margins.** We note another set of observations around *the winner's popular vote*. First, very famously in two races, the winner of the popular vote lost the election: Al Gore in 2000 and Hillary Clinton in 2016. This is a reflection of how *each* popular vote for a candidate is not equally valuable to their electoral victory because of the electoral college. The <u>state</u> where it is won matters. 
+
+For example, winning 22 million votes in California (a state with 25 million voting-age citizens) is impressive but unnecessary to beat your opponent and win its 55 electoral votes (`EV`). Call this strategy **A** for those votes:
+
+```
+22 million PV = 55 EV (CA)
+```
+
+Instead, it would be better if a candidate just won a slim majority of 12.5 million votes in California (`55 EV`), a slim majority of 5 million votes in Pennsylvannia (`20 EV`), and a slim majority of 4.5 million votes in North Carolina (`15 EV`). Call this strategy **B** for those votes:
+
+```
+22 million PV = 55 EV (CA) + 20 EV (PA) + 15 EV (NC) = 90 EV
+```
+
+That's the same 22 million votes, but in one scenario a candidate wins `55 EV` while in the other a candidate wins `90 EV`. Whoa! 
+
+This is an illustration of the distortions of a **winner-takes-all** electoral system where slim majorities in just a few moderately large states (which promise substantial EVs!) translate to huge electoral gains. Empirically, it ends up that electoral college vote margins [are more dramatic](https://www.pewresearch.org/fact-tank/2016/12/20/why-electoral-college-landslides-are-easier-to-win-than-popular-vote-ones/) than popular vote margins (Desilver 2016). This is why presidential candidates tend to (mostly) focus their resources on moderately large swing states where they can win by a slim majority rather than firing up the base or purusing lost causes. As a result, not all votes in each state are created equal.
 
 **What are the most "interesting" elections in the last half century?** Some of most interesting -- at least as denoted by the popular media and history textbooks -- elections are hairpin and landslide wins. They, in fact, tend to share some common traits in their "prevailing narratives".
 
@@ -32,27 +54,6 @@ These are, more or less, the accepted stories about these elections as compiled 
 
 We will explore these topics this semester, what empirical evidence we really have for these "prevailing narratives" heralded by pundits, journalists, historians and many political scientists and whether they generalize beyond these races.
 
-**A winner-take-all system with electors based on population distorts win margins.** We note another set of observations around *the winner's popular vote*. First, very famously in two races, the winner of the popular vote lost the election: Al Gore in 2000 and Hillary Clinton in 2016. This is a reflection of how *each* popular vote for a candidate is not equally valuable to their electoral victory because of the electoral college. The <u>state</u> where it is won matters. 
-
-For example, winning 22 million votes in California (a state with 25 million voting-age citizens) is impressive but unnecessary to beat your opponent and win its 55 electoral votes (`EV`). Call this strategy **A** for those votes:
-
-```
-22 million PV = 55 EV (CA)
-```
-
-Instead, it would be better if a candidate just won a slim majority of 12.5 million votes in California (`55 EV`), a slim majority of 5 million votes in Pennsylvannia (`20 EV`), and a slim majority of 4.5 million votes in North Carolina (`15 EV`). Call this strategy **B** for those votes:
-
-```
-22 million PV = 55 EV (CA) + 20 EV (PA) + 15 EV (NC) = 90 EV
-```
-
-That's the same 22 million votes, but in one scenario a candidate wins `55 EV` while in the other a candidate wins `90 EV`. Whoa! 
-
-This is an illustration of the distortions of a **winner-takes-all** electoral system where slim majorities in just a few moderately large states (which promise substantial EVs!) translate to huge electoral gains. Empirically, it ends up that electoral college vote margins [are more dramatic](https://www.pewresearch.org/fact-tank/2016/12/20/why-electoral-college-landslides-are-easier-to-win-than-popular-vote-ones/) than popular vote margins (Desilver 2016). This is why presidential candidates tend to (mostly) focus their resources on moderately large swing states where they can win by a slim majority rather than firing up the base or purusing lost causes. As a result, not all votes in each state are created equal.
-
-Below we can see which states vote blue/red and how consistently so. In section, we will produce more nuanced versions of these maps that highlight the ''swinginess'' of various states.
-
-![](../figures/PV_states_historical.png)
 
 **Prediction: simplified electoral cycle model.** Noting from the first figure the general competitiveness of elections, we might infer that the best way to predict this year's election in each state is looking at the two *most recent* electoral cycles which are likely to be similarly competitive. 
 
