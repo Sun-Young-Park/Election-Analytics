@@ -74,8 +74,8 @@ On the other hand, Biden is favored to win a fair share of battelground states i
 
 Note that the first three are midwestern states that Obama decisively won by more than `5%` in 2012, and Hillary lost **by less than `1%`** in 2016. Altogether, our simplified electoral cycle model predicts:
 
-* <span style="color:green">Biden: `279 EV`</span>
-* Trump:`259 EV`
+* <span style="color:green">Biden:  `279 EV`</span>
+* Trump: `259 EV`
 
 Amongst many things, this highlights how narrowly Hillary lost the popular vote in a few key states, which translated into an electoral college loss in 2016. Put another way, the electoral college's magnifying effect on the popular vote in this election turned a electoral loser (Trump) into a winner. A precise example of the electoral college's distortion on presidential election results.
 
