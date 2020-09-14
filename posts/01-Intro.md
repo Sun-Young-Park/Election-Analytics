@@ -10,9 +10,11 @@ Predictions of the future are based on the patterns of the past. If X tended to 
 
 The first half of the twentieth century experienced greater swings and greater margins of victory, while point spreads (or win margins) in the last 20 years have been less than 10 points. By looks of the first 5 election cycles in the 21st century, it looks like political competition has only <u>increased</u>, not decreased -- both in terms of control of the White House and the narrowness of win margins.
 
-Below we can see which states vote blue/red and how consistently so. In general, we can see that there are indeed "red states" that have voted blue (Louisiana, Arkansas) and "blue states" that have voted red (California, Massachusetts). In section, we will produce more nuanced versions of these maps that highlight the ''swinginess'' of various states.
+Below we can see which states vote blue/red and how consistently so. In general, we can see that there are indeed "red states" that have voted blue (Louisiana, Arkansas) and "blue states" that have voted red (California, Massachusetts).
 
 ![](../figures/PV_states_historical.png)
+
+In section, we will produce more nuanced versions of these maps that highlight the ''swinginess'' of various states.
 
 **A winner-take-all system with electors based on population distorts win margins.** We note another set of observations around *the winner's popular vote*. First, very famously in two races, the winner of the popular vote lost the election: Al Gore in 2000 and Hillary Clinton in 2016. This is a reflection of how *each* popular vote for a candidate is not equally valuable to their electoral victory because of the electoral college. The <u>state</u> where it is won matters. 
 
