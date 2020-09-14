@@ -8,6 +8,8 @@ Predictions of the future are based on the patterns of the past. If X tended to 
 
 ![Presidential Popular Voteshare (1948-2016)](../figures/PV_national_historical.png)
 
+(Note the `y`-axis for this the figure below could be better labelled to clarify two-party voteshare)
+
 The first half of the twentieth century experienced greater swings and greater margins of victory, while point spreads (or win margins) in the last 20 years have been less than 10 points. By looks of the first 5 election cycles in the 21st century, it looks like political competition has only <u>increased</u>, not decreased -- both in terms of control of the White House and the narrowness of win margins.
 
 Below we can see which states vote blue/red and how consistently so. In general, we can see that there are indeed "red states" that have voted blue (Louisiana, Arkansas) and "blue states" that have voted red (California, Massachusetts).
