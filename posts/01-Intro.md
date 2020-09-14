@@ -1,4 +1,5 @@
 # Introduction: Past Presidential Election Results
+## Sun Young Park & Soubhik Barari
 ## Aug 30, 2020
 
 Predictions of the future are based on the patterns of the past. If X tended to predict Y well in the past, we would want to use that X in our model to predict Y in the future. So we start our journey by looking into past presidential election results -- first two-party voteshare at the national level. We share two main insights and then make a prediction for 2020 based exclusively on past electoral results.
