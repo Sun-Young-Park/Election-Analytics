@@ -10,7 +10,7 @@ Predictions of the future are based on the patterns of the past. If X tended to 
 
 The first half of the twentieth century experienced greater swings and greater margins of victory, while point spreads (or win margins) in the last 20 years have been less than 10 points. By looks of the first 5 election cycles in the 21st century, it looks like political competition has only <u>increased</u>, not decreased -- both in terms of control of the White House and the narrowness of win margins.
 
-**What are the most "interesting" elections in the last half century?** Some of most interesting -- at least as denoted by the popular media and history textbooks -- elections are hairpin and landslide wins. They, in fact, tend to share some common traits at least in their "prevailing narratives".
+**What are the most "interesting" elections in the last half century?** Some of most interesting -- at least as denoted by the popular media and history textbooks -- elections are hairpin and landslide wins. They, in fact, tend to share some common traits in their "prevailing narratives".
 
 The 3 <u>closest</u> elections in the last 60 years are:
 
