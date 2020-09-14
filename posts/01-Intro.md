@@ -77,5 +77,7 @@ Note that the first three are midwestern states that Obama decisively won by mor
 * <span style="color:green">Biden:  `279 EV`</span>
 * Trump: `259 EV`
 
-Amongst many things, this highlights how narrowly Hillary lost the popular vote in a few key states, which translated into an electoral college loss in 2016. Put another way, the electoral college's magnifying effect on the popular vote in this election turned a electoral loser (Trump) into a winner. A precise example of the electoral college's distortion on presidential election results.
+... which would make 2020 the second closest presidential election of the century. 
+
+Amongst many things, this prediction highlights just how narrowly Hillary lost the popular vote in a few key states, which translated into an electoral college loss in 2016. Put another way, the electoral college's magnifying effect on the popular vote in this election turned a electoral loser (Trump) into a winner. A precise example of the electoral college's distortion on presidential election results.
 
