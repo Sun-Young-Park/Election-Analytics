@@ -80,9 +80,7 @@ See [the related R script to replicate this analysis](../scripts/01-Intro.R). Th
 
 If we go on this naive historically weighted model, Trump is expected to win a number of key battleground states: Florida (`+0.7%`), North Carolina (`+3.4%`), Arizona (`+5.2%`), Ohio (`+5.6%`), and Georgia (`+6%`). 
 
-On the other hand, Biden is favored to win a fair share of battelground states including his home-state Pennsylvannia (`+0.8%`), Michigan (`+2.2%`), Wisconsin (`+1.1%`), Minnesota (`+3.3%`), New Hampshire (`+1.7%`), and Maine (`-6.3%`). 
-
-Note that the first three are midwestern states that Obama decisively won by more than `5%` in 2012, and Hillary lost **by less than `1%`** in 2016. Altogether, our simplified electoral cycle model predicts:
+On the other hand, Biden is favored to win a fair share of battelground states including his home-state Pennsylvannia (`+0.8%`), Michigan (`+2.2%`), Wisconsin (`+1.1%`), Minnesota (`+3.3%`), New Hampshire (`+1.7%`), and Maine (`-6.3%`). Note that the first three are midwestern states that Obama decisively won by more than `5%` in 2012, and Hillary lost **by less than `1%`** in 2016. Altogether, our simplified electoral cycle model predicts:
 
 * <span style="color:green">Biden:  `279 EV`</span>
 * Trump: `259 EV`
