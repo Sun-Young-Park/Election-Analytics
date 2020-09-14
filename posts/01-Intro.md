@@ -87,3 +87,6 @@ Note that the first three are midwestern states that Obama decisively won by mor
 
 Amongst many things, this prediction highlights just how narrowly Hillary lost the popular vote in a few key states, which translated into an electoral college loss in 2016. Put another way, the electoral college's magnifying effect on the popular vote in this election turned a electoral loser (Trump) into a winner. A precise example of the electoral college's distortion on presidential election results.
 
+<hr>
+
+*Thanks to John for helping me debug X, and Jane for helping me fix Y.*
