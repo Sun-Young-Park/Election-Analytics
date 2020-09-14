@@ -72,7 +72,10 @@ If we go on this naive historically weighted model, Trump is expected to win a n
 
 On the other hand, Biden is favored to win a fair share of battelground states including his home-state Pennsylvannia (`+0.8%`), Michigan (`+2.2%`), Wisconsin (`+1.1%`), Minnesota (`+3.3%`), New Hampshire (`+1.7%`), and Maine (`-6.3%`). 
 
-Note that the first three are midwestern states that Obama decisively won by more than `5%` in 2012, and Hillary lost **by less than `1%`** in 2016. Altogether, our simplified electoral cycle model spells out `279 EV` for Biden and `259 EV` for Trump in November.
+Note that the first three are midwestern states that Obama decisively won by more than `5%` in 2012, and Hillary lost **by less than `1%`** in 2016. Altogether, our simplified electoral cycle model predicts 
+
+* <span style="color:green">Biden: `279 EV`</span>
+* Trump:`259 EV`
 
 Amongst many things, this highlights how narrowly Hillary lost the popular vote in a few key states, which translated into an electoral college loss in 2016. Put another way, the electoral college's magnifying effect on the popular vote in this election turned a electoral loser (Trump) into a winner. A precise example of the electoral college's distortion on presidential election results.
 
